@@ -1,32 +1,12 @@
-# Data_cleaning_Task2 
-In Task 2, visualizations were created to analyze and explain key patterns in the cleaned sales dataset. Using Python and Matplotlib, several charts were generated to highlight important insights such as sales trends, top-performing products, customer behavior, and revenue distribution.
+## Task 2 – Visual Report
 
-What was done
+📄 **Full PDF Report:**  
+[Download Task 2 Visual Report](Task2_Full_Visual_Report.pdf)
 
-Loaded the cleaned dataset
+### Key Visuals:
+![Sales Trend](sales_trend.png)
+![Category Sales](category_sales.png)
+![Segmentation](age_gender_segment.png)
+![Top Countries](top_countries.png)
+![Sales vs Profit](sales_vs_profit.png)
 
-Created key visualizations:
-
-Monthly Sales Trend
-
-Top Products by Sales
-
-Category/Segment Performance
-
-Geographic Insights (if available)
-
-Sales vs Profit Relationship
-
-Compiled all visuals into a final PDF report
-
-Explained insights in a clear and business-focused way
-
-Purpose
-
-To turn raw sales data into clear, meaningful visuals that help understand performance, identify trends, and support data-driven decisions.
-
-Output
-
-Task2_Visual_Report.pdf
-
-PNG charts generated through Python
